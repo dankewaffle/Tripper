@@ -1,0 +1,6 @@
+[submodule "tripper-api"]
+	path = tripper-api
+	url = https://github.com/ericyamabe/tripper-api
+[submodule "tripper-web-ui"]
+	path = tripper-web-ui
+	url = https://github.com/ericyamabe/tripper-web-ui
